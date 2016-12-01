@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Email &#8211; Zaman-IT</title>
+	<atom:link href="http://zaman-it.com/category/email/feed/" rel="self" type="application/rss+xml" />
+	<link>http://zaman-it.com</link>
+	<description>Zaman-IT</description>
+	<lastBuildDate>Sat, 19 Nov 2016 12:22:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
+	<item>
+		<title>Moving to Google Apps Email Walkthrough.</title>
+		<link>http://zaman-it.com/2016/10/26/moving-to-google-apps-email-walkthrough/</link>
+		<comments>http://zaman-it.com/2016/10/26/moving-to-google-apps-email-walkthrough/#respond</comments>
+		<pubDate>Wed, 26 Oct 2016 10:28:10 +0000</pubDate>
+		<dc:creator><![CDATA[ZaManIT247]]></dc:creator>
+				<category><![CDATA[Email]]></category>
+
+		<guid isPermaLink="false">http://zaman-it.com/?p=2525</guid>
+		<description><![CDATA[The first thing you need to do to start using Google Apps is sign up for it. There is a premium service which costs money, and a standard service which is free. We will use the standard edition. Sign up! Google Apps Sign-up : Select the option for &#8220;Administrator: I own or control this domain&#8221;. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="size-medium wp-image-1323 alignright" src="http://zaman-it.com/wp-content/uploads/2015/07/site-img64-300x188.png" alt="site-img6" width="300" height="188" srcset="http://zaman-it.com/wp-content/uploads/2015/07/site-img64-300x188.png 300w, http://zaman-it.com/wp-content/uploads/2015/07/site-img64.png 320w" sizes="(max-width: 300px) 100vw, 300px" />The first thing you need to do to start using Google Apps is sign up for it. There is a premium service which costs money, and a standard service which is free. We will use the standard edition. Sign up!</p>
+<p>Google Apps Sign-up :</p>
+<p>Select the option for &#8220;Administrator: I own or control this domain&#8221;.</p>
+<p>Enter the domain name which will have email hosted by Google.</p>
+<p>Click the Get Started button.</p>
+<p>Fill in the required fields and place a check next to &#8220;I understand that if I cannot alter DNS records for my domain, I may impact my organization&#8217;s ability to use Google Apps&#8221;.</p>
+<p>Click the Continue button.</p>
+<p>Google Apps Create Administrator Account</p>
+<p>Type a username and a password. Be sure to re-enter the password.</p>
+<p>Read the Terms and Conditions for using the Google Apps service. When you are ready, click &#8220;I accept. Continue with set up »&#8221;.</p>
+<p>This completes the registration. You are now logged in to your Google Apps Dashboard (control panel).</p>
+<p>Verify your account:</p>
+<p>Once you create an account for your domain name, you must verify that you own the domain name.</p>
+<p>At the top of your Dashboard you will see, &#8220;To activate Google Apps services you must verify that you own your domain &#8211; yourdomain.com&#8221;. Next to this, click the link calledVerify domain ownership.</p>
+<p>There are two ways you can verify that you own the domain:</p>
+<p>1. (Recommended) You can upload an HTML file to your website.<br />
+Create and upload a file named googlehostedservice.html to http://yourdomain.com/ . If this is your primary domain, the correct folder is public_html.<br />
+Edit the file and paste the given code into it.<br />
+googleffffffffc4ffb5fe<br />
+Please note &#8220;googleffffffffc4ffb5fe&#8221; is an example, and you should instead use the code provided to you by Google.<br />
+Save the changes, and make sure you can see the file at http://yourdomain.com/googlehostedservice.html.<br />
+Go back to the Google Apps page and click the Verify button.</p>
+<p>2. You can create a CNAME record to point to google.com .<br />
+Login to WHM and click DNS Functions &gt; Edit DNS Zone.<br />
+Create a new CNAME record for your domain:<br />
+googleffffffffc4ffb5fe 14400 IN CNAME google.com.<br />
+Please note &#8220;googleffffffffc4ffb5fe&#8221; is an example, and you should instead use the code provided to you by Google.<br />
+If you do NOT have access to edit your DNS zones, or do not feel comfortable making the changes, please contact eicra.com for assistance.<br />
+Go back to the Google Apps page and click the Verify button.</p>
+<p>After you click the Verify button, allow up to 48 hours for Google to verify your are the owner of the domain name.</p>
+<p>Start using Google Email</p>
+<p>At the Google Apps Dashboard, click the Email link. You can change any of these settings as you see fit.</p>
+<p>Click the link for Email activation Instructions on how to activate Email.</p>
+<p>Read the instructions carefully. If your domain already has email addresses, you should create user accounts before changing your MX records.<br />
+1. Create user accounts</p>
+<p>Click the &#8220;Create user accounts&#8221; link.</p>
+<p>Enter a first and last name for the email user. Enter the name of his email address.</p>
+<p>Click the &#8220;Create new user&#8221; button.</p>
+<p>If you need to enter more emails, click the &#8220;Create another user&#8221; link.</p>
+<p>Once finished, go back to the Dashboard tab at the top. To quickly get to the next step, click the Activate email link, located directly under the Email link.</p>
+<p>2. Set up email delivery</p>
+<p>If you skipped creating email users, then click the &#8220;Change MX records&#8221; link.</p>
+<p>Google reminds you to create the email users before you change the MX records, or you may have email downtime.</p>
+<p>Google also offers you temporary email addresses, so you can use Google mail before the MX record change. The format is similar to name@yourdomain.com.test-google-a.com (The temporary email address will be deactivated once you change the MX records.)</p>
+<p>You see &#8220;Showing instructions for&#8221; and a drop down box. Select &#8220;cPanel&#8221; as your hosting company. Follow the instructions, but there is an extra step you might need.</p>
+<p>Note: The steps are for the cPanel X theme; however, most eicra.com clients are using the X3 theme. Here are the instructions for X3:<br />
+Log in to your cPanel account.<br />
+Click the MX Entry icon.<br />
+Under Change MX Entry, in the drop-down box, select the domain name you are changing.<br />
+Leave the priority as 0.<br />
+Paste the Google MX record in the last field. Be sure to remove the ending dot, so that cPanel will accept it. EXAMPLE:<br />
+Change MX for [yourdomain.com] Priority: [0] to: [ASPMX.L.GOOGLE.COM]<br />
+Do NOT check the box for &#8220;Always accept mail locally&#8230;.&#8221;<br />
+Click the Change button.</p>
+<p>Extra step?</p>
+<p>If you have a MX record which resolves locally, you will need to contact us via phone, live chat, or email support@eicra.com and make the request. (If you have never before changed your MX record at EICRA.COM, then you likely need this extra step.)</p>
+<p>If you already have an MX entry resolving to a remote server, you can skip the extra step.</p>
+<p>All done?</p>
+<p>Be sure to go back to the Google Apps page and click the &#8220;I have completed these steps&#8221; button.</p>
+<p>Accessing Webmail</p>
+<p>Go back to the Google Apps Dashboard and click the Email link.</p>
+<p>Next to Web address you see a sign-in address (URL) which is similar to http://mail.google.com/a/yourdomain.com .</p>
+<p>The login is the email name WITHOUT @yourdomain.com and the temporary password given by Google. You can find the temporary password by going to the &#8220;Users and Groups&#8221; tab at the top. Click the email account in question, and the password will be revealed.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://zaman-it.com/2016/10/26/moving-to-google-apps-email-walkthrough/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

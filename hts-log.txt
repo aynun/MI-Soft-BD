@@ -1,0 +1,172 @@
+HTTrack3.48-22+htsswf+htsjava launched on Wed, 23 Nov 2016 11:39:49 at http://zaman-it.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://zaman-it.com/ -O1 "E:\copy web template for misoftbd\misoftbd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:46:16	Error: 	"Method Not Allowed" (405) at link zaman-it.com/xmlrpc.php (from zaman-it.com/)
+11:56:58	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/uploads/2015/07/site-img5.png (from zaman-it.com/)
+11:57:09	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/uploads/2015/07/site-img9.png (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/message-from-founder (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/our-skill (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/our-clients (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/payment-system (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/proposal-download (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/join-the-team (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/software-clients (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/website-clients (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/sms-marketing-clients (from zaman-it.com/)
+11:57:27	Error: 	"Error when decompressing" (-1) at link zaman-it.com/email-marketing-clients (from zaman-it.com/)
+11:57:59	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/core/assets/fonts/glyphicons-halflings-regular.eot? (from zaman-it.com/wp-content/themes/arkahost/style.css?ver=5.1.1)
+11:57:59	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/core/assets/fonts/glyphicons-halflings-regular.ttf (from zaman-it.com/wp-content/themes/arkahost/style.css?ver=5.1.1)
+11:58:01	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/images/site-img13.jpg (from zaman-it.com/wp-content/themes/arkahost/assets/css/arkahost.css?ver=5.1.1)
+11:58:03	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/images/site-img18.jpg (from zaman-it.com/wp-content/themes/arkahost/assets/css/arkahost.css?ver=5.1.1)
+11:58:04	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/images/site-img24.jpg (from zaman-it.com/wp-content/themes/arkahost/assets/css/arkahost.css?ver=5.1.1)
+11:58:04	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/images/site-img26.jpg (from zaman-it.com/wp-content/themes/arkahost/assets/css/arkahost.css?ver=5.1.1)
+11:58:04	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/images/site-img37.jpg (from zaman-it.com/wp-content/themes/arkahost/assets/css/arkahost.css?ver=5.1.1)
+11:58:09	Error: 	"Not Found" (404) at link zaman-it.com/wp-content/themes/arkahost/assets/css/AjaxLoader.gif (from zaman-it.com/wp-content/themes/arkahost/assets/css/owl.carousel.css?ver=5.1.1)
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=2616
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=2616 to http://zaman-it.com/online-order/
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=2644
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=2644 to http://zaman-it.com/support/
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=2180
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=2180 to http://zaman-it.com/domain-registration/
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=1572
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=1572 to http://zaman-it.com/dedicated-hosting/
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=1554
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=1554 to http://zaman-it.com/shared-hosting/
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=2182
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=2182 to http://zaman-it.com/static-website/
+11:58:10	Error: 	"Not Found" (404) at link zaman-it.com/website/domain-registration.html (from zaman-it.com/static-website/)
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=2184
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=2184 to http://zaman-it.com/dynamic-website/
+11:58:10	Warning: 	Moved Permanently for zaman-it.com/?p=2186
+11:58:10	Warning: 	File has moved from zaman-it.com/?p=2186 to http://zaman-it.com/ecommerce-website/
+11:58:10	Error: 	"Not Found" (404) at link zaman-it.com/low-cost-domain-registration.html (from zaman-it.com/ecommerce-website/)
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2654
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2654 to http://zaman-it.com/newspaper-website/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2675
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2675 to http://zaman-it.com/mobile-apps/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2188
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2188 to http://zaman-it.com/logo-design/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2165
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2165 to http://zaman-it.com/email-marketing-service-in-bangladesh/
+11:58:11	Error: 	"Not Found" (404) at link zaman-it.com/email.pdf (from zaman-it.com/email-marketing-service-in-bangladesh/)
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2190
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2190 to http://zaman-it.com/email-marketing-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2177
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2177 to http://zaman-it.com/sms-marketing/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2195
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2195 to http://zaman-it.com/sms-reseller-gateway/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2198
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2198 to http://zaman-it.com/search-engine-optimization/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2193
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2193 to http://zaman-it.com/business-email/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2130
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2130 to http://zaman-it.com/accounting-inventory-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2631
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2631 to http://zaman-it.com/school-college-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2134
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2134 to http://zaman-it.com/invoice-billing-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2136
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2136 to http://zaman-it.com/multi-purpose-management-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2138
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2138 to http://zaman-it.com/mlm-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2140
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2140 to http://zaman-it.com/raw-material-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2142
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2142 to http://zaman-it.com/hr-payroll/
+11:58:11	Error: 	"Not Found" (404) at link zaman-it.com/pdf/hrpayroll.pdf (from zaman-it.com/hr-payroll/)
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2144
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2144 to http://zaman-it.com/garments-erp/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2146
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2146 to http://zaman-it.com/restaurant-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2148
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2148 to http://zaman-it.com/medicine-shop-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2151
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2151 to http://zaman-it.com/manufacturing-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2153
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2153 to http://zaman-it.com/courier-product-tracking-system/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2155
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2155 to http://zaman-it.com/point-of-sales-pos/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2157
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2157 to http://zaman-it.com/student-visa-consultancy-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2159
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2159 to http://zaman-it.com/brick-field-automation/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2161
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2161 to http://zaman-it.com/prescription-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2163
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2163 to http://zaman-it.com/voip-accounts-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2167
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2167 to http://zaman-it.com/real-estate-crm/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2169
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2169 to http://zaman-it.com/freight-forwarding-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2171
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2171 to http://zaman-it.com/ad-firm-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2173
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2173 to http://zaman-it.com/hospital-management/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2175
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2175 to http://zaman-it.com/omr-software/
+11:58:11	Warning: 	Moved Permanently for zaman-it.com/?p=2204
+11:58:11	Warning: 	File has moved from zaman-it.com/?p=2204 to http://zaman-it.com/company/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2206
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2206 to http://zaman-it.com/message-from-founder/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2346
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2346 to http://zaman-it.com/company-profile/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2208
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2208 to http://zaman-it.com/our-skill/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2210
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2210 to http://zaman-it.com/our-clients/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2212
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2212 to http://zaman-it.com/payment-system/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2214
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2214 to http://zaman-it.com/proposal-download/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2216
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2216 to http://zaman-it.com/join-the-team/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2225
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2225 to http://zaman-it.com/clients/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2229
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2229 to http://zaman-it.com/software-clients/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2227
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2227 to http://zaman-it.com/website-clients/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2233
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2233 to http://zaman-it.com/sms-marketing-clients/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=2231
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=2231 to http://zaman-it.com/email-marketing-clients/
+11:58:12	Warning: 	Moved Permanently for zaman-it.com/?p=996
+11:58:12	Warning: 	File has moved from zaman-it.com/?p=996 to http://zaman-it.com/contact/
+11:58:18	Warning: 	Moved Permanently for zaman-it.com/?p=2527
+11:58:18	Warning: 	File has moved from zaman-it.com/?p=2527 to http://zaman-it.com/2016/10/26/ddos-and-do-you-provide-a-guarantee/
+11:58:32	Warning: 	Moved Permanently for zaman-it.com/?p=2525
+11:58:32	Warning: 	File has moved from zaman-it.com/?p=2525 to http://zaman-it.com/2016/10/26/moving-to-google-apps-email-walkthrough/
+11:58:34	Warning: 	Moved Permanently for zaman-it.com/?p=2523
+11:58:34	Warning: 	File has moved from zaman-it.com/?p=2523 to http://zaman-it.com/2016/10/26/where-can-i-download-a-free-ftp/
+11:58:38	Warning: 	Moved Permanently for zaman-it.com/?p=2521
+11:58:38	Warning: 	File has moved from zaman-it.com/?p=2521 to http://zaman-it.com/2016/10/26/methods-to-reduce-wordpress-cpu-usage/
+11:58:38	Warning: 	Moved Permanently for zaman-it.com/?p=2514
+11:58:38	Warning: 	File has moved from zaman-it.com/?p=2514 to http://zaman-it.com/2016/10/26/how-to-create-email-account-in-cpanel-hosting/
+11:58:44	Error: 	"Not Found" (404) at link zaman-it.com/software/css/ie10-viewport-bug-workaround.css (from zaman-it.com/software/)
+11:58:45	Error: 	"Not Found" (404) at link zaman-it.com/software/js/ie-emulation-modes-warning.js (from zaman-it.com/software/)
+11:58:48	Error: 	"Not Found" (404) at link zaman-it.com/software/js/ie10-viewport-bug-workaround.js (from zaman-it.com/software/)
+11:58:48	Warning: 	Moved Permanently for zaman-it.com/?p=2598
+11:58:48	Warning: 	File has moved from zaman-it.com/?p=2598 to http://zaman-it.com/email-hosting/
+11:58:48	Warning: 	Moved Permanently for zaman-it.com/?p=2200
+11:58:48	Warning: 	File has moved from zaman-it.com/?p=2200 to http://zaman-it.com/combo-package/
+11:58:48	Warning: 	Moved Permanently for zaman-it.com/?p=2202
+11:58:48	Warning: 	File has moved from zaman-it.com/?p=2202 to http://zaman-it.com/facebook-marketing/
+11:58:48	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fzaman-it.com%2Ffacebook-marketing%2F&format=xml (from zaman-it.com/facebook-marketing/)
+11:58:49	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/core/assets/fonts/Simple-Line-Icons.woff (from zaman-it.com/wp-content/themes/arkahost/core/assets/css/simple-line-icons.css)
+11:58:49	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/images/site-img24.jpg (from zaman-it.com/wp-content/themes/arkahost/assets/css/arkahost.css?ver=5.1.1)
+11:58:50	Warning: 	Retry after error -4 (No data (connection closed)) at link zaman-it.com/wp-content/themes/arkahost/assets/css/images/icn-tags.png (from zaman-it.com/wp-content/themes/arkahost/assets/css/blog-reset.css?ver=5.1.1)
+11:58:51	Error: 	"Not Found" (404) at link zaman-it.com/2016/10/26/contact (from zaman-it.com/2016/10/26/)
+11:58:51	Error: 	"Not Found" (404) at link zaman-it.com/category/website/contact (from zaman-it.com/category/website/)
+11:58:51	Error: 	"Not Found" (404) at link zaman-it.com/category/email/contact (from zaman-it.com/category/email/)
+11:58:51	Error: 	"Not Found" (404) at link zaman-it.com/category/software/contact (from zaman-it.com/category/software/)
+11:58:51	Error: 	"Not Found" (404) at link zaman-it.com/category/create-email-account-in-cpanel/contact (from zaman-it.com/category/create-email-account-in-cpanel/)
+11:58:54	Warning: 	Moved Temporarily for zaman-it.com/wp-content/themes/arkahost/assets/css/images/icn-tags.png
+11:58:54	Warning: 	Warning moved treated for zaman-it.com/wp-content/themes/arkahost/assets/css/images/icn-tags.png (real one is zaman-it.com/wp-content/themes/arkahost/assets/images/default404.jpg)
+
+HTTrack Website Copier/3.48-22 mirror complete in 19 minutes 5 seconds : 647 links scanned, 547 files written (27253498 bytes overall) [22587976 bytes received at 19727 bytes/sec], 7832680 bytes transferred using HTTP compression in 450 files, ratio 29%, 10.5 requests per connection
+(24 errors, 137 warnings, 0 messages)

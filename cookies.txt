@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+zaman-it.com	TRUE	/	FALSE	1999999999	PHPSESSID	83rej4o8uaj2urdcp2ldjua150
+zaman-it.com	TRUE	/	FALSE	1999999999	ci_session	b3f351fb67cc17e5e3db89812720f314612de325
+
